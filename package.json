@@ -1,0 +1,16 @@
+{
+  "name": "teste-pratico-automacao",
+  "version": "1.0.0",
+  "description": "Resolução dos desafios de automação (fluxo WhatsApp e script de horário de funcionamento).",
+  "main": "horario-funcionamento.js",
+  "scripts": {
+    "start": "node horario-funcionamento.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
+
